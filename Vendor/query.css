@@ -1,0 +1,99 @@
+/* For small phone  */
+@media only screen and (max-width: 480px){
+    .hero-text-box{
+
+    }
+
+}
+/* For phone  */
+@media only screen and (max-width: 467px){
+
+}
+/* Foor Tablet */
+@media only screen and (max-width: 1023px){
+    .long-row{
+        width: 80%;
+        margin-left: 10%;
+
+    }
+    body{
+        font-size: 18px;
+    }
+    section{
+        padding: 60 0px;
+    }
+    .app-icon a img {
+    width: 200px;
+}
+}
+/* for desktop */
+@media only screen and (max-width:1200px){
+    /* .hero-text-box{
+        padding: 0 6%;
+    width: 100%;
+    /* padding-top:250px; 
+    margin-top:-100px ;
+    }
+       .long-row{
+        width: 80%;
+        margin-left: 10%;
+
+    }
+    body{
+        font-size: 18px;
+    }
+    section{
+        padding: 60 0px;
+    }
+    .row{
+        padding:0 2%;
+    }
+    .head{height: 900px;
+    }
+.section-features{
+    padding-top: 25px;
+}
+.section-meal{
+    padding-top: 155px;
+    margin-top: 250px;
+}
+.section-step{
+    padding-top: 50px;
+    /* margin: 25px; 
+}
+
+.app-icon a img {
+    width: 200px;
+}
+
+.section-cities{
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+.section-testimonials{
+    padding-top: 25px;
+    height: 600px;
+}
+.section-plan{
+    padding-top: 25px;
+}
+.section form{
+    padding: 25px;
+}
+} */ 
+ .hero-text-box{
+    width: 100%;
+    padding: 0 6%;
+    
+}
+.section-cities{
+    padding-bottom: 25px;
+    padding-top: 25px;
+
+ }
+ .row{padding: 0 2%;}
+ .steps-box{padding-left: 25px;}
+ .app-screen{
+   
+}
+}
